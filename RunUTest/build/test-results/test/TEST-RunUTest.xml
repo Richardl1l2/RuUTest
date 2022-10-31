@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RunUTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-10-31T11:35:50" hostname="DESKTOP-FNDS34O" time="68.357">
+  <properties/>
+  <testcase name="Ingresar a la paigna Utest para iniciar el registro" classname="RunUTest" time="68.357"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[oct 31, 2022 6:35:52 AM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFORMACIÓN: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Starting ChromeDriver 107.0.5304.62 (1eec40d3a5764881c92085aaee66d25075c159aa-refs/branch-heads/5304@{#942}) on port 8766
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+oct 31, 2022 6:35:56 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+]]></system-err>
+</testsuite>
